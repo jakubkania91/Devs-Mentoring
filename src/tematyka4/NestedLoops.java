@@ -1,4 +1,4 @@
-package pl.devsmentoring.module_4_loops.excercises;
+package tematyka4;
 
 public class NestedLoops {
     public static void main(String[] args) {

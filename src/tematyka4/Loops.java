@@ -1,4 +1,4 @@
-package pl.devsmentoring.module_4_loops.excercises;
+package tematyka4;
 
 public class Loops {
     public static void main(String[] args) {
