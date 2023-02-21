@@ -1,4 +1,4 @@
-package tematyka4;
+package tematyka4.homework;
 
 import java.util.Scanner;
 

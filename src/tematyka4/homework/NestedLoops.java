@@ -1,4 +1,4 @@
-package tematyka4;
+package tematyka4.homework;
 
 public class NestedLoops {
     public static void main(String[] args) {

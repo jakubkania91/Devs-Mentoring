@@ -1,4 +1,4 @@
-package tematyka4;
+package tematyka4.homework;
 
 public class Loops {
     public static void main(String[] args) {
