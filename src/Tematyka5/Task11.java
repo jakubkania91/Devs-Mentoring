@@ -7,11 +7,15 @@ public class Task11 {
         String[][] numbers2D = {{"John", "Jasper"}, {"Casper", "Jonathan"}, {"Unknown", "Unknown"}, {"Alice", "Bob"}, {"Stanley", "Unknown"}};
 
         for (String[] element:numbers2D) {
-            for (String elements:element) {
-                if (elements.contains("Unknow")){
-                    System.out.println(Arrays.toString(element));
+            boolean isUnKnow = false;
+            for (String word:element) {
+                if (word.contains("Unknow")){
+                    isUnKnow = true;
+                    break;
                 }
             }
+            if (!isUnKnow)
+                System.out.println(Arrays.toString(element));
 
 
         }

@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/ArraySecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/HashMapFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/ListFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/SetListFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tematyka5/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tematyka5/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tematyka5/Task11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,5 +114,16 @@
       <updated>1675798381850</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tematyka5/Task11.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
