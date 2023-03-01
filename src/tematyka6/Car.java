@@ -84,4 +84,15 @@ public class Car {
         return brand.equals(car.getBrand()) && model.equals(car.getModel()) && color.equals(car.getColor()) && year==car.getYear() && doors==car.getDoors();
 
     }
+
+    @Override
+    public int hashCode() {
+        int result = 7;
+        result = 31 * result + brand.hashCode();
+        result = 31 * result + model.hashCode();
+        result = 31 * result + color.hashCode();
+        result = 31 * result + year;
+        result = 31 * result + doors;
+        return result;
+    }
 }

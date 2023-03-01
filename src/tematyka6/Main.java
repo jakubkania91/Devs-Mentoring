@@ -1,5 +1,7 @@
 package tematyka6;
 
+import java.util.HashMap;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -29,6 +31,12 @@ public class Main {
         System.out.println(brand);
         System.out.println(car.getModel() + " " + car.getBrand() + " " + car.getColor() + " " + car.getYear() + " " + car.getDoors());
         System.out.println(car.toString());
+        String cars5 = "mercedes";
+        int i = cars5.hashCode();
+        HashMap<Car, String> map = new HashMap<>();
+        map.put(seckondCar, "myCar");
+        map.put(thirdCar, "Car");
+
 
     }
 }
