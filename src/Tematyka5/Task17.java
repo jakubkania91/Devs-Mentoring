@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Task17 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+     g   Scanner scanner = new Scanner(System.in);
         Map<String, String> musicAlbums = new HashMap<>();
 
         musicAlbums.put("The Sensual World", "Kate Bush");
@@ -15,7 +15,6 @@ public class Task17 {
 
         Set<String> nameOfTheAlbum = musicAlbums.keySet();
         System.out.println(nameOfTheAlbum);
-
         System.out.println("Podaj nazwe albumu");
         String nameOfThealbums = scanner.nextLine();
 
