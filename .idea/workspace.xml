@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="" />
+    <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/myTrials/Garnek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/User/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/User/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +31,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapFirst">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HashMapFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tematyka5.HashMapFirst" />
       <module name="Devs-Mentoring" />
@@ -39,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTrials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.MyTrials" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="myTrials.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task11" />
+    <configuration name="MyTrials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tematyka5.MyTrials" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
@@ -93,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HashMapFirst" />
         <item itemvalue="Application.Task15" />
         <item itemvalue="Application.Task13" />
         <item itemvalue="Application.MyTrials" />
-        <item itemvalue="Application.Task11" />
       </list>
     </recent_temporary>
   </component>
