@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Task17 {
     public static void main(String[] args) {
-     g   Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         Map<String, String> musicAlbums = new HashMap<>();
 
         musicAlbums.put("The Sensual World", "Kate Bush");
