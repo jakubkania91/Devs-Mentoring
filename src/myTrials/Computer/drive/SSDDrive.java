@@ -12,7 +12,7 @@ public class SSDDrive implements Drive {
 
     @Override
     public void addFile(File file) {
-        files.put(file.toString(), file);
+        files.put(file.getName(), file);
     }
 
     @Override

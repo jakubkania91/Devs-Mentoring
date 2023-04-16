@@ -2,7 +2,7 @@ package myTrials.Computer.file.musicFile;
 
 public class MP3MusicFile extends AbstractMusicFile {
 
-    int quality;
+   private int quality;
 
 
     public MP3MusicFile(String name, int size, String bandName, String title, int quality) {
@@ -16,6 +16,6 @@ public class MP3MusicFile extends AbstractMusicFile {
     }
 
     public int getQuality(){
-        return this.quality;
+        return quality;
     }
 }

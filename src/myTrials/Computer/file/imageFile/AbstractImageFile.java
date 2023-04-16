@@ -4,7 +4,7 @@ import myTrials.Computer.file.AbstractFile;
 import myTrials.Computer.file.Type;
 import myTrials.Computer.file.musicFile.MusicFile;
 
-public abstract class AbstractImageFile extends AbstractFile {
+   public abstract class AbstractImageFile extends AbstractFile {
 
 
     @Override
@@ -12,7 +12,7 @@ public abstract class AbstractImageFile extends AbstractFile {
         return Type.IMAGE;
     }
 
-    public AbstractImageFile(String name, int size) {
+    protected AbstractImageFile(String name, int size) {
         super(name, size);
 
     }

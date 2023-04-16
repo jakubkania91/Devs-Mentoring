@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/Headphones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/USBDevice/MemoryStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/USBDevice/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/USBDevice/USBDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/drive/Drive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/drive/HDDDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/drive/SSDDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/AbstractFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/AbstractImageFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/GIFImageFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/JPGImageFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/musicFile/AbstractMusicFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/musicFile/AbstractMusicFileBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/musicFile/MP3MusicFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/musicFile/MusicFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/User/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/User/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/User/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/AbstractFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/AbstractFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/AbstractImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/AbstractImageFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/GIFImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/GIFImageFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/AbstractMusicFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/AbstractMusicFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/AbstractMusicFileBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/MP3MusicFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/MP3MusicFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
