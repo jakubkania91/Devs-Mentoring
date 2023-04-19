@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Autobus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Pojazd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Tramwaj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/Zajezdnia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/ZajezdniaAautobusowa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/ZajezdniaTramwajowa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Autobus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Tramwaj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Autobus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Autobus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Tramwaj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Pojazd/Tramwaj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/Zajezdnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/Zajezdnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/ZajezdniaAautobusowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/ZajezdniaAautobusowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/ZajezdniaTramwajowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tematyka8/Task4/Zajezdnia/ZajezdniaTramwajowa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,16 +24,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LQLV6IV7yIihpBSaM9rEnUERo3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="tematyka8.Task2" />

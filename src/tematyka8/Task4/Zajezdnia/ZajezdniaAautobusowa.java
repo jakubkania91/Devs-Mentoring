@@ -5,7 +5,7 @@ import tematyka8.Task4.Pojazd.Autobus;
 import tematyka8.Task4.Pojazd.Pojazd;
 
 public class ZajezdniaAautobusowa extends Zajezdnia {
-
+     int zuzyciePaliwa;
 
     public ZajezdniaAautobusowa(String nazwa) {
         super(nazwa);
@@ -13,7 +13,6 @@ public class ZajezdniaAautobusowa extends Zajezdnia {
 
     @Override
     public String informacje() {
-        double zuzyciePaliwa = 0;
 
         for (Pojazd pojazd : pojazdy) {
             System.out.println(pojazd.informacje());
@@ -21,6 +20,13 @@ public class ZajezdniaAautobusowa extends Zajezdnia {
         }
 
         return "Zajezdnia autobusowa " + nazwa + " zuzycie paliwa " + zuzyciePaliwa;
+    }
+
+    @Override
+    public void dodajPojazd(Pojazd pojazd) {
+        super.dodajPojazd(pojazd);
+        Autobus autobus = (Autobus) pojazd;
+        zuzyciePaliwa += autobus.getZuzyciePaliwa();
     }
 }
 

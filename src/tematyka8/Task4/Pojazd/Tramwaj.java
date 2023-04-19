@@ -3,6 +3,9 @@ package tematyka8.Task4.Pojazd;
 
     private int liczbaWagonow;
 
+        public int getLiczbaWagonow() {
+            return liczbaWagonow;
+        }
 
         public Tramwaj(int numer, double predkoscMaksymalna, int liczbaWagonow) {
         super(numer, predkoscMaksymalna);
@@ -12,7 +15,8 @@ package tematyka8.Task4.Pojazd;
 
         @Override
         public String informacje() {
-            return "Tramwaj numer " + numer + ", predkosc maksymalna: " + predkoscMaksymalna;
+
+            return "Tramwaj numer " + numer + ", predkosc maksymalna: " + predkoscMaksymalna + ", liczba wagonow: " + liczbaWagonow;
         }
     }
 

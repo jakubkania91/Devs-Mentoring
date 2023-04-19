@@ -4,6 +4,10 @@ public class Autobus extends Pojazd{
 
     private double zuzyciePaliwa;
 
+    public double getZuzyciePaliwa() {
+        return zuzyciePaliwa;
+    }
+
     public Autobus(int numer, double predkoscMaksymalna, double zuzyciePaliwa) {
         super(numer, predkoscMaksymalna);
         this.zuzyciePaliwa = zuzyciePaliwa;
@@ -11,6 +15,6 @@ public class Autobus extends Pojazd{
 
     @Override
     public String informacje() {
-        return "Autobus numer " + numer + ", predkoscMaksymalna: " + predkoscMaksymalna;
+        return "Autobus numer " + numer + ", predkoscMaksymalna: " + predkoscMaksymalna + ", zuzycie paliwa: " + zuzyciePaliwa;
     }
 }

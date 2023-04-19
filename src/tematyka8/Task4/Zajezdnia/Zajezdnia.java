@@ -10,9 +10,11 @@ abstract class Zajezdnia {
     protected List<Pojazd> pojazdy = new ArrayList<>();
 
     public Zajezdnia(String nazwa) {
+
         this.nazwa = nazwa;
     }
     public void dodajPojazd(Pojazd pojazd){
+
         pojazdy.add(pojazd);
     }
     public abstract String informacje();
