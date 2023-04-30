@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Mammals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/AbstractFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/AbstractFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/AbstractImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/AbstractImageFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/GIFImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/imageFile/GIFImageFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/AbstractMusicFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/AbstractMusicFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/AbstractMusicFileBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/MP3MusicFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrials/Computer/file/musicFile/MP3MusicFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="myTrials.Computer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myTrials.Computer.Main">
+  <component name="RunManager" selected="Application.myTrials.MyTrialsProgrammimgOOP.Main">
     <configuration name="HashMapFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tematyka5.HashMapFirst" />
       <module name="Devs-Mentoring" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task15" />
+    <configuration name="myTrials.Computer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.Computer.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="myTrials.Computer.drive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myTrials.Computer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTrials.Computer.Main" />
+    <configuration name="myTrials.MyTrialsProgrammimgOOP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsProgrammimgOOP.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTrials.Computer.drive.*" />
+          <option name="PATTERN" value="myTrials.MyTrialsProgrammimgOOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myTrials.MyTrialsProgrammimgOOP.Main" />
         <item itemvalue="Application.myTrials.Computer.Main" />
         <item itemvalue="Application.myTrials.User.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HashMapFirst" />
-        <item itemvalue="Application.Task15" />
       </list>
     </recent_temporary>
   </component>
