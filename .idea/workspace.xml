@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsProgrammimgOOP/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Circle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/CountVowelsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/CountWordsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Dog/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Employee/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/MesthodSmallerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/MethodAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/MiddleCharOfStringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Rand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/Rectangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/RectangelMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/RectangelMethod/Rectangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/RowPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/SumOfTheDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTrials/MyTrialsall/sizeWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,26 +66,13 @@
       <recent name="myTrials.Computer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myTrials.MyTrialsProgrammimgOOP.Main">
-    <configuration name="HashMapFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.HashMapFirst" />
-      <module name="Devs-Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTrials.Main" />
+      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsall.Employee.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTrials.*" />
+          <option name="PATTERN" value="myTrials.MyTrialsall.Employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myTrials.Computer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTrials.Computer.Main" />
+    <configuration name="SumOfTheDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsall.SumOfTheDigits" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTrials.Computer.drive.*" />
+          <option name="PATTERN" value="myTrials.MyTrialsall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myTrials.MyTrialsProgrammimgOOP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsProgrammimgOOP.Main" />
+    <configuration name="myTrials.MyTrialsall.Book.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsall.Book.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTrials.MyTrialsProgrammimgOOP.*" />
+          <option name="PATTERN" value="myTrials.MyTrialsall.Book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +106,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myTrials.User.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTrials.User.Main" />
+    <configuration name="myTrials.MyTrialsall.Circle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsall.Circle.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTrials.User.*" />
+          <option name="PATTERN" value="myTrials.MyTrialsall.Circle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTrials.MyTrialsall.RectangelMethod.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTrials.MyTrialsall.RectangelMethod.Main" />
+      <module name="Devs-Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTrials.MyTrialsall.RectangelMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.myTrials.MyTrialsProgrammimgOOP.Main" />
-        <item itemvalue="Application.myTrials.Computer.Main" />
-        <item itemvalue="Application.myTrials.User.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HashMapFirst" />
+        <item itemvalue="Application.myTrials.MyTrialsall.Book.Main" />
+        <item itemvalue="Application.SumOfTheDigits" />
+        <item itemvalue="Application.myTrials.MyTrialsall.Circle.Main" />
+        <item itemvalue="Application.myTrials.MyTrialsall.RectangelMethod.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +152,16 @@
       <updated>1675798381850</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myTrials/MyTrialsall/SumOfTheDigits.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
