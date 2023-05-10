@@ -11,7 +11,7 @@ public abstract class Security {
         this.value = value;
         this.id = id;
     }
-
+            // todo jak odziedziczyć pola
 
     public BigDecimal getValue() {
         return value;

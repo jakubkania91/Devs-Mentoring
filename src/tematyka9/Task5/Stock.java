@@ -20,6 +20,7 @@ public class Stock extends Security{
             sign = -1;
             BigDecimal change = getValue().multiply(new BigDecimal(0.1)).multiply(new BigDecimal(sign));
             setValue(getValue().add(change));
+            // wykorzystywanie elementów z którychh się w kółko korzysta;
         }
     }
 }
