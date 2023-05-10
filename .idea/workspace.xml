@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task4/CalculationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task5/Debenture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task5/Security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task5/SecurityPortfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task5/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task9/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task9/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task9/Tram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka9/Task9/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tematyka9.Task4.Main">
+  <component name="RunManager" selected="Application.tematyka9.Task5.Main">
     <configuration name="HashMapFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tematyka5.HashMapFirst" />
       <module name="Devs-Mentoring" />
@@ -58,32 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task13" />
-      <module name="Devs-Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task15" />
-      <module name="Devs-Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="tematyka9.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tematyka9.Task4.Main" />
       <module name="Devs-Mentoring" />
@@ -97,13 +78,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tematyka9.Task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tematyka9.Task5.Main" />
+      <module name="Devs-Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tematyka9.Task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tematyka9.Task9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tematyka9.Task9.Main" />
+      <module name="Devs-Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tematyka9.Task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tematyka9.Task5.Main" />
+        <item itemvalue="Application.tematyka9.Task9.Main" />
         <item itemvalue="Application.tematyka9.Task4.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HashMapFirst" />
-        <item itemvalue="Application.Task15" />
-        <item itemvalue="Application.Task13" />
       </list>
     </recent_temporary>
   </component>
