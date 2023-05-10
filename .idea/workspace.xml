@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="" />
+    <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Metody/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metody/MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task8/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task8/MessagingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tematyka8/Task8/Warning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +24,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LQLV6IV7yIihpBSaM9rEnUERo3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapFirst">
-    <configuration name="HashMapFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.HashMapFirst" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="tematyka8.Task2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Metody.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tematyka8.exercises.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="tematyka8.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTrials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.MyTrials" />
+    <configuration name="MessagingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tematyka8.Task8.MessagingSystem" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="tematyka8.Task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task11" />
+    <configuration name="Metody.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metody.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="Metody.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task13" />
+    <configuration name="tematyka8.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tematyka8.Task2.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="tematyka8.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task15" />
+    <configuration name="tematyka8.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tematyka8.Task4.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="tematyka8.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashMapFirst" />
-        <item itemvalue="Application.Task15" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.MyTrials" />
-        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Metody.Main" />
+        <item itemvalue="Application.MessagingSystem" />
+        <item itemvalue="Application.tematyka8.Task4.Main" />
+        <item itemvalue="Application.tematyka8.Task2.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
