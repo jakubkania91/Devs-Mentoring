@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="" />
+    <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka1/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +32,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LQLV6IV7yIihpBSaM9rEnUERo3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.HashMapFirst">
-    <configuration name="HashMapFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.HashMapFirst" />
+}]]></component>
+  <component name="RunManager" selected="Application.Task11">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka1.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="zaawansowane.tematyka1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTrials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.MyTrials" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka1.Task10" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="zaawansowane.tematyka1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task11" />
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka1.Task11" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="zaawansowane.tematyka1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task13" />
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka1.Task9" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="zaawansowane.tematyka1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tematyka5.Task15" />
+    <configuration name="zaawansowane.tematyka1.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka1.Task4" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tematyka5.*" />
+          <option name="PATTERN" value="zaawansowane.tematyka1.Task5" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashMapFirst" />
-        <item itemvalue="Application.Task15" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.MyTrials" />
         <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.zaawansowane.tematyka1.Task4" />
+        <item itemvalue="Application.Task9" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
