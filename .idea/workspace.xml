@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/FirstTrials/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/FirstTrials/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/FirstTrials/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/SecondTrials/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/SecondTrials/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/SecondTrials/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Devs-Mentoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Devs-Mentoring.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +27,17 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tematyka9" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,16 +64,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task7" />
       <recent name="zaawansowane.Tematyka3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zaawansowane.Tematyka3.SecondTrials.Main">
+  <component name="RunManager" selected="Application.zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.Main" />
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task7.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawansowane.Tematyka3.FirstTrials.*" />
+          <option name="PATTERN" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka1.Task11" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task8" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawansowane.tematyka1.*" />
+          <option name="PATTERN" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrialsExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.FirstTrials.TrialsExercises" />
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task9" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawansowane.Tematyka3.FirstTrials.*" />
+          <option name="PATTERN" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zaawansowane.Tematyka3.FirstTrials.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.FirstTrials.Main" />
+    <configuration name="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawansowane.Tematyka3.FirstTrials.*" />
+          <option name="PATTERN" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zaawansowane.Tematyka3.SecondTrials.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.SecondTrials.Main" />
+    <configuration name="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task6" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawansowane.Tematyka3.SecondTrials.*" />
+          <option name="PATTERN" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task7.Product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,10 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zaawansowane.Tematyka3.SecondTrials.Main" />
-        <item itemvalue="Application.zaawansowane.Tematyka3.FirstTrials.Main" />
-        <item itemvalue="Application.TrialsExercises" />
-        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task9" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task6" />
       </list>
     </recent_temporary>
   </component>
