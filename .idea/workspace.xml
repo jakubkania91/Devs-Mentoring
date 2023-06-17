@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task7/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/Tematyka3/ProgramowanieFunkcyjneStrumienie/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka4/DataStoragre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka4/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaawansowane/tematyka4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +58,7 @@
       <recent name="zaawansowane.Tematyka3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.Main">
+  <component name="RunManager" selected="Application.zaawansowane.tematyka4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task7.Main" />
       <module name="Devs-Mentoring" />
@@ -121,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task6" />
+    <configuration name="zaawansowane.tematyka4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaawansowane.tematyka4.Main" />
       <module name="Devs-Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task7.Product.*" />
+          <option name="PATTERN" value="zaawansowane.tematyka4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zaawansowane.tematyka4.Main" />
         <item itemvalue="Application.zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task10.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.zaawansowane.Tematyka3.ProgramowanieFunkcyjneStrumienie.Task6" />
       </list>
     </recent_temporary>
   </component>
