@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ExpenseManager {
-    List<Expense>expenses = new ArrayList<>();
+    List<Expense> expenses = new ArrayList<>();
 
     public void displayAllExpenses() {
         expenses.forEach(expense -> {
@@ -15,7 +15,8 @@ public class ExpenseManager {
             System.out.println(expense.month());
         });
     }
-    public void addExpense(Scanner scanner){
+
+    public void addExpense(Scanner scanner) {
         System.out.println("Jaki wydatek chcesz dodac?");
         String description = scanner.nextLine();
         System.out.println("Jakiego typu jest to wydatek");
@@ -25,7 +26,7 @@ public class ExpenseManager {
         System.out.println("Z ktorego miesiaca to wydatek");
         int month = Integer.parseInt(scanner.nextLine());
 
-        Expense expense = new Expense(type,month,value,description);
+        Expense expense = new Expense(type, month, value, description);
         expenses.add(expense);
 
     }
