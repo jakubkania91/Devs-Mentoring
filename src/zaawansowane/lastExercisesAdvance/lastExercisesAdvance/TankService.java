@@ -68,19 +68,21 @@ public class TankService {
         events.add(new Event(totank.getName(), "transferWater", volume, totank.transferWater(fromtank, volume)));
     }
 
-    public String getMostOperation(String type) {
+    public String getMostOperation() {
         Map<String, Integer> operationsMap = new HashMap<>();
         for (int i = 0; i < events.size(); i++) {
             Event event = events.get(i);
             if (event.getOpertion().equals(type)) {
                 if (operationsMap.containsKey(event.getTank())) {
                     Integer integer = operationsMap.get(event.getTank());
-                    operationsMap.put(event.getTank(),++integer);
-                }else {
+                    operationsMap.put(event.getTank(), ++integer);
+                } else {
                     operationsMap.put(event.getTank(), 1);
                 }
             }
-//toDO przeiteruj przez mape i znajdz nazwę zbiornika, który ma najwięcej opercji
+
         }
+        return type;
     }
 }
+

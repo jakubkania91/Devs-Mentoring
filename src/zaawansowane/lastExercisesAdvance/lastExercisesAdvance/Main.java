@@ -24,7 +24,7 @@ public class Main {
         tankService.transferWater(tank3,tank2,100);
         Tank fullesTank = tankService.findFullesTank();
 
-        tankService.getMostOperation()
+        tankService.getMostOperation();
         List<Tank>emptyTanks = tankService.findAllEmptyTanks();
         for (Tank tank:emptyTanks) {
             System.out.println("Empty " + tank.getName() + " with capacity: " + tank.getCapacity());
