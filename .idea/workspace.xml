@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e3c8c2-0c40-4b4d-8a79-c16c80ed7f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementMyTrials/ad10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementMyTrials/ad11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementMyTrials/ad12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/Event.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/TankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zaawansowane/lastExercisesAdvance/lastExercisesAdvance/TankService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
